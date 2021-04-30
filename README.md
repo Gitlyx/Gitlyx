@@ -49,11 +49,10 @@ Here are some ideas to get you started:
 **Tools:**
 </br>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
-<img alt="Photoshop" width="26px" src="https://img.icons8.com/material-sharp/24/4a90e2/adobe-photoshop.png"/>
+<img alt="Photoshop" width="26px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
 <img alt="Xd" width="26px" src="https://img.icons8.com/color/50/000000/adobe-xd.png"/>
 <img alt="Illustrator" width="26px" src="https://img.icons8.com/color/50/000000/adobe-illustrator.png"/>
 <img alt="IntelliJ" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
-<img alt="Sony Vegas Pro" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" />
 <img alt="Office 365" width="26px" src="https://img.icons8.com/color/48/4a90e2/office-365.png"/>
 
 
