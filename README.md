@@ -57,11 +57,11 @@ Here are some ideas to get you started:
 <img alt="Office 365" width="26px" src="https://img.icons8.com/color/48/4a90e2/office-365.png"/>
 
 
-**Games i play:**
+**Games i grew up playing:**
 </br>
-<img src="https://img.icons8.com/color/48/4a90e2/world-of-warcraft.png"/>
-<img src="https://img.icons8.com/color/48/4a90e2/dota.png"/>
-<img src="https://img.icons8.com/plasticine/100/4a90e2/league-of-legends.png"/>
-<img src="https://img.icons8.com/dusk/64/4a90e2/overwatch.png"/>
-<img src="https://img.icons8.com/color/48/4a90e2/nintendo-switch.png"/>
-<img src="https://img.icons8.com/color/48/4a90e2/nintendo-switch.png"/>
+<img alt="World of Warcraft" width="26px" src="https://img.icons8.com/color/48/4a90e2/world-of-warcraft.png"/>
+<img alt="Dota 2" width="26px" src="https://img.icons8.com/color/48/4a90e2/dota.png"/>
+<img alt="League of Legende" width="26px" src="https://img.icons8.com/plasticine/100/4a90e2/league-of-legends.png"/>
+<img alt="Overwatch" width="26px" src="https://img.icons8.com/color/50/000000/overwatch--v1.png"/>
+<img alt="Nintendo Switch" width="26px" src="https://img.icons8.com/color/48/4a90e2/nintendo-switch.png"/>
+<img alt="Spyro" width="26px" src="https://img.icons8.com/color/50/000000/spyro.png"/>
