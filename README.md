@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello there
+### Welcome to my GitHub!
+</br>
 
 **About me** 
-- 🌱 My current goal is to learn
-- 📚 I’m currently taking my second engineering degree in 💻 Software Engineering, formerly 🔧 Mechanical Engineering. 
+- 🌱 My current goal is to become a full stack developer.
+- 📚 I’m currently taking my second engineering degree in 💻 Software Engineering, formerly being 🔧 Mechanical Engineering. 
 - 👨‍💼 I am currenly working as a renovation project designer/consultant at INGKA - Group. 
 - 📫 How to reach me: charlievo22@gmail.com || s188910@oslomet.no
-- 
+- ⚡ Fun fact: ...
 
 **In progress of learning:**
 </br>
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 
 
  
-**Tools & Languages:**
+**Languages:**
 </br>
 <img alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img alt="Spring boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
@@ -44,4 +45,12 @@ Here are some ideas to get you started:
 <img alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql.png"/>
 <img alt="Rest API" width="26px" src="https://img.icons8.com/color/48/000000/rest-api.png" />
+
+**Tools:**
+</br>
+<img alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img alt="Photoshop" width="26px" src="https://img.icons8.com/material-sharp/24/4a90e2/adobe-photoshop.png"/>
 <img alt="IntelliJ" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
+<img alt="Sony Vegas Pro" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" />
+<img alt="Office 365" width="26px" src="https://img.icons8.com/color/48/4a90e2/office-365.png"/>
+
