@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 </br>
 
 **About me** 
-🌱 My current goal is to become a full stack developer.
-📚 I’m currently taking my second engineering degree in 💻 Software Engineering, formerly being 🔧 Mechanical Engineering. 
-👨‍💼 I am currenly working as a renovation project designer/consultant at INGKA - Group. 
-📫 How to reach me: charlievo22@gmail.com || s188910@oslomet.no
+- 🌱 My current goal is to become a full stack developer.
+- 📚 I’m currently taking my second engineering degree in 💻 Software Engineering, formerly being 🔧 Mechanical Engineering. 
+- 👨‍💼 I am currenly working as a renovation project designer/consultant at INGKA - Group. 
+- 📫 How to reach me: charlievo22@gmail.com || s188910@oslomet.no
 
 **In progress of learning:**
 </br>
