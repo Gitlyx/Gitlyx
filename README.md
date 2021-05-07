@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **About me** 
 - 🌱 My current goal is to become a full stack developer.
-- 📚 I’m currently taking my second engineering degree in 💻 Software Engineering.
+- 📚 I’m currently taking a degree in Software Engineering 💻.
 - 👨‍💼 I am currenly working as a renovation project designer/consultant at INGKA - Group. 
 - 📫 How to reach me: charlievo22@gmail.com || s188910@oslomet.no
 
