@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 **In progress of learning:**
 </br>
-<img alt="Vue" width="26px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
 <img alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img alt="Angular" width="26px" src="https://img.icons8.com/ios-filled/50/fa314a/angularjs.png"/>
 <img alt="Typescript" width="26px" src="https://img.icons8.com/material-sharp/24/4a90e2/typescript.png"/>
 
 
