@@ -1,10 +1,10 @@
 ## Hello and welcome to my Github!
 My name is Charlie and I have a burning passion for learning the latest and greatest technologies whether thats the fontend or backend. I enjoy creating beautiful and meaningful applications while also adhering to the principles of Universal Design. 
 
-🌱 I'm soooo close to my goal in becoming a full stack Software Engineer.
-💼 My current occupation is working as an IT Consultant in the health industry as of 2022. 
-👯‍♂️ I love working in teams where I can learn and share knowledge.
-🧑‍🎨 Fun fact: I love to draw and illustrate in Procreate! I also have a degree in Mechanical Engineering 😎
+- 🌱 I'm soooo close to my goal in becoming a full stack Software Engineer.
+- 💼 My current occupation is working as an IT Consultant in the health industry as of 2022. 
+- 👯‍♂️ I love working in teams where I can learn and share knowledge.
+- 🧑‍🎨 Fun fact: I love to draw and illustrate in Procreate! I also have a degree in Mechanical Engineering 😎
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitlyx&theme=vue)
