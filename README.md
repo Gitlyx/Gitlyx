@@ -8,9 +8,9 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 
 **My current focus**
 </br>
-<img alt="dotnet" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
+<img alt="dotnet" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
 <img alt="React" src="https://img.icons8.com/color/60/000000/react-native.png"/>
-<img alt="cSharp"src="https://img.icons8.com/color/60/000000/c-sharp-logo-2.png"/>
+<img alt="cSharp" src="https://img.icons8.com/color/60/000000/c-sharp-logo-2.png"/>
 <img alt="Typescript" src="https://img.icons8.com/material-sharp/60/4a90e2/typescript.png"/>
 <img alt="Docker" src="https://img.icons8.com/color/60/000000/docker.png"/>
 <img alt="Linux" src="https://img.icons8.com/color/60/000000/linux--v2.png"/>
