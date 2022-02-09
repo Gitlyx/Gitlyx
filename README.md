@@ -33,6 +33,8 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 <img alt="JavaScript" src="https://img.icons8.com/color/30/000000/javascript.png" />
 <img alt="HTML5" src="https://img.icons8.com/color/30/000000/html-5.png" />
 <img alt="CSS3" src="https://img.icons8.com/color/30/000000/css3.png" />
+<img alt="Bootstrap" src="https://img.icons8.com/color/30/000000/bootstrap.png"/>
+<img alt="Material UI" src="https://img.icons8.com/color/48/000000/material-ui.png"/>
 <img alt="SASS" src="https://img.icons8.com/color/30/000000/sass.png"/>
 <img alt="MySQL" src="https://img.icons8.com/color/30/000000/mysql.png"/>
 <img alt="Rest API" src="https://img.icons8.com/color/30/000000/rest-api.png" />
