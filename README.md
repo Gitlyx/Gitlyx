@@ -6,7 +6,7 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 - 👯‍♂️ I love working in teams where I can learn and share knowledge.
 - 🧑‍🎨 Fun fact: I love to draw and illustrate in Procreate! I also have a degree in Mechanical Engineering 😎
 
-**My current tech focus**
+**My current focus**
 </br>
 <img src="https://img.icons8.com/nolan/60/asp.png"/>
 <img alt="React" src="https://img.icons8.com/color/60/000000/react-native.png"/>
@@ -16,7 +16,7 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 <img src="https://img.icons8.com/color/60/000000/linux--v2.png"/>
 
  
-**Languages:**
+**Technology:**
 </br>
 <img alt="Java" src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo.png" />
 <img alt="Spring boot" src="https://img.icons8.com/color/60/000000/spring-logo.png" />
