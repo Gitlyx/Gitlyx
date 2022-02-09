@@ -39,9 +39,9 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 
 **Games i grew up playing:**
 </br>
-<img alt="World of Warcraft"  src="https://img.icons8.com/color/60/4a90e2/world-of-warcraft.png"/>
-<img alt="Dota 2" src="https://img.icons8.com/color/60/4a90e2/dota.png"/>
-<img alt="League of Legends"  src="https://img.icons8.com/plasticine/100/4a90e2/league-of-legends.png"/>
-<img alt="Overwatch" src="https://img.icons8.com/color/50/000000/overwatch--v1.png"/>
-<img alt="Nintendo Switch"  src="https://img.icons8.com/color/60/4a90e2/nintendo-switch.png"/>
-<img alt="Spyro" src="https://img.icons8.com/color/50/000000/spyro.png"/>
+<img alt="World of Warcraft"  src="https://img.icons8.com/color/48/4a90e2/world-of-warcraft.png"/>
+<img alt="Dota 2" src="https://img.icons8.com/color/48/4a90e2/dota.png"/>
+<img alt="League of Legends"  src="https://img.icons8.com/plasticine/48/4a90e2/league-of-legends.png"/>
+<img alt="Overwatch" src="https://img.icons8.com/color/48/000000/overwatch--v1.png"/>
+<img alt="Nintendo Switch"  src="https://img.icons8.com/color/48/4a90e2/nintendo-switch.png"/>
+<img alt="Spyro" src="https://img.icons8.com/color/48/000000/spyro.png"/>
