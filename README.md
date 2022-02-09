@@ -1,5 +1,5 @@
 
-### Greetings, I'm Charlie  - aka [Lyx]
+### Hello and welcome to my domain, I'm Charlie  - aka [Lyx]
 </br>
 
 **About me** 
