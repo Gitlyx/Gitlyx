@@ -6,7 +6,7 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 - 👯‍♂️ I love working in teams where I can learn and share knowledge.
 - 🧑‍🎨 Fun fact: I love to draw and illustrate in Procreate! I also have a degree in Mechanical Engineering 😎
 
-**In progress of learning:**
+**My current tech focus**
 </br>
 <img src="https://img.icons8.com/nolan/60/asp.png"/>
 <img alt="React" src="https://img.icons8.com/color/60/000000/react-native.png"/>
@@ -18,15 +18,14 @@ My name is Charlie and I have a burning passion for learning the latest and grea
  
 **Languages:**
 </br>
-<img alt="Java" width="26px" src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo.png" />
-<img alt="Spring boot" width="26px" src="https://img.icons8.com/color/60/000000/spring-logo.png" />
-<img alt="JavaScript" width="26px" src="https://img.icons8.com/color/60/000000/javascript.png" />
-<img alt="JavaScript" width="26px" src="https://img.icons8.com/color/60/000000/nodejs.png" />
-<img alt="HTML5" width="26px" src="https://img.icons8.com/color/60/000000/html-5.png" />
-<img alt="CSS3" width="26px" src="https://img.icons8.com/color/60/000000/css3.png" />
-<img alt="Git" width="26px" src="https://img.icons8.com/color/60/000000/git.png" />
-<img alt="MySQL" width="26px" src="https://img.icons8.com/color/60/000000/mysql.png"/>
-<img alt="Rest API" width="26px" src="https://img.icons8.com/color/60/000000/rest-api.png" />
+<img alt="Java" src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo.png" />
+<img alt="Spring boot" src="https://img.icons8.com/color/60/000000/spring-logo.png" />
+<img alt="JavaScript" src="https://img.icons8.com/color/60/000000/javascript.png" />
+<img alt="HTML5" src="https://img.icons8.com/color/60/000000/html-5.png" />
+<img alt="CSS3" src="https://img.icons8.com/color/60/000000/css3.png" />
+<img alt="SASS" src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img alt="MySQL" src="https://img.icons8.com/color/60/000000/mysql.png"/>
+<img alt="Rest API" src="https://img.icons8.com/color/60/000000/rest-api.png" />
 
 **Tools:**
 </br>
