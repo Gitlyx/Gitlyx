@@ -29,7 +29,6 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 **Technology:**
 </br>
 <img alt="Java" src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png" />
-<img alt="Spring boot" src="https://img.icons8.com/color/30/000000/spring-logo.png" />
 <img alt="JavaScript" src="https://img.icons8.com/color/30/000000/javascript.png" />
 <img alt="HTML5" src="https://img.icons8.com/color/30/000000/html-5.png" />
 <img alt="CSS3" src="https://img.icons8.com/color/30/000000/css3.png" />
