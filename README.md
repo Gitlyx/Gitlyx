@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
  
 My name is Charlie and I have a burning passion for learning the latest and greatest technologies whether thats the fontend or backend. I enjoy creating beautiful and meaningful applications while also adhering to the principles of Universal Design. 
