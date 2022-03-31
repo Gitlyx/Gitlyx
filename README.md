@@ -18,13 +18,13 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 
 **My focus**
 </br>
-<img alt="cSharp" src="https://img.icons8.com/dusk/60/000000/python.png"/>
-<img alt="Typescript" src="https://img.icons8.com/office/60/000000/google-logo.png"/>
-<img alt="Docker" src="https://img.icons8.com/color/60/000000/docker.png"/>
-<img alt="Linux" src="https://img.icons8.com/color/60/000000/linux--v2.png"/>
+<img alt="python" src="https://img.icons8.com/dusk/30/000000/python.png"/>
+<img alt="google" src="https://img.icons8.com/office/30/000000/google-logo.png"/>
+<img alt="Docker" src="https://img.icons8.com/color/30/000000/docker.png"/>
+<img alt="Linux" src="https://img.icons8.com/color/30/000000/linux--v2.png"/>
 
  
-**My thoughts:**
+**My motivation:**
 </br>
 <img alt="cSharp" src="https://img.icons8.com/color/30/000000/c-sharp-logo-2.png"/>
 <img alt="Typescript" src="https://img.icons8.com/material-sharp/30/4a90e2/typescript.png"/>
@@ -40,7 +40,7 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 <img alt="MySQL" src="https://img.icons8.com/color/30/000000/mysql.png"/>
 <img alt="Rest API" src="https://img.icons8.com/color/30/000000/rest-api.png" />
 
-**My skills:**
+**My creativity:**
 </br>
 <img alt="Git" src="https://img.icons8.com/color/30/000000/git.png" />
 <img alt="Photoshop" src="https://img.icons8.com/color/30/000000/adobe-photoshop.png"/>
@@ -50,7 +50,7 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 <img alt="Office 365"  src="https://img.icons8.com/color/30/4a90e2/office-365.png"/>
 
 
-**My personalities:**
+**My personality:**
 </br>
 <img alt="World of Warcraft"  src="https://img.icons8.com/color/30/4a90e2/world-of-warcraft.png"/>
 <img alt="Dota 2" src="https://img.icons8.com/color/30/4a90e2/dota.png"/>
