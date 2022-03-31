@@ -1,20 +1,19 @@
-<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hello friends!  </h1>
 <p align='center'>
  
 My name is Charlie and I have a burning passion for learning the latest and greatest technologies whether thats the fontend or backend. I enjoy creating beautiful and meaningful applications while also adhering to the principles of Universal Design. 
 
 - 🌱 I'm so close to my goal in becoming Software Engineer.
-- 💼 I'm part time Developer at Dignio AS. 
+- 💼 I'm a part time Software Developer at Dignio AS. 
 - 👯‍♂️ I love working in teams where I can learn and share knowledge.
-- 🧑‍🎨 Fun fact: I love to draw and illustrate in Procreate! I also have a degree in Mechanical Engineering 😎
+- 🧑‍🎨 Fun fact: I love to draw and illustrate in Procreate! I also have a degree in Mechanical Engineering ✒️
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitlyx&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gitlyx&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gitlyx&theme=vue)
 
-## My skills and tech <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
-
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> What am I doing?
 
 **My focus**
 </br>
@@ -58,3 +57,8 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 <img alt="Overwatch" src="https://img.icons8.com/color/30/000000/overwatch--v1.png"/>
 <img alt="Nintendo Switch"  src="https://img.icons8.com/color/30/4a90e2/nintendo-switch.png"/>
 <img alt="Spyro" src="https://img.icons8.com/color/30/000000/spyro.png"/>
+<img alt="Tanjiro" src="https://img.icons8.com/color/30/000000/tanjiro-kamado.png"/>
+<img alt="Bakugo" src="https://img.icons8.com/color/30/000000/Bakugou.png"/>
+
+
+
