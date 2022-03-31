@@ -16,18 +16,20 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 ## My skills and tech <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
 
 
-**My current focus**
+**My focus**
 </br>
-<img alt="dotnet" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
-<img alt="React" src="https://img.icons8.com/color/60/000000/react-native.png"/>
-<img alt="cSharp" src="https://img.icons8.com/color/60/000000/c-sharp-logo-2.png"/>
-<img alt="Typescript" src="https://img.icons8.com/material-sharp/60/4a90e2/typescript.png"/>
+<img alt="cSharp" src="https://img.icons8.com/dusk/60/000000/python.png"/>
+<img alt="Typescript" src="https://img.icons8.com/office/60/000000/google-logo.png"/>
 <img alt="Docker" src="https://img.icons8.com/color/60/000000/docker.png"/>
 <img alt="Linux" src="https://img.icons8.com/color/60/000000/linux--v2.png"/>
 
  
-**Technology:**
+**My thoughts:**
 </br>
+<img alt="cSharp" src="https://img.icons8.com/color/30/000000/c-sharp-logo-2.png"/>
+<img alt="Typescript" src="https://img.icons8.com/material-sharp/30/4a90e2/typescript.png"/>
+<img alt="React" src="https://img.icons8.com/color/30/000000/react-native.png"/>
+<img alt="dotnet" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
 <img alt="Java" src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png" />
 <img alt="JavaScript" src="https://img.icons8.com/color/30/000000/javascript.png" />
 <img alt="HTML5" src="https://img.icons8.com/color/30/000000/html-5.png" />
@@ -38,7 +40,7 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 <img alt="MySQL" src="https://img.icons8.com/color/30/000000/mysql.png"/>
 <img alt="Rest API" src="https://img.icons8.com/color/30/000000/rest-api.png" />
 
-**Tools:**
+**My skills:**
 </br>
 <img alt="Git" src="https://img.icons8.com/color/30/000000/git.png" />
 <img alt="Photoshop" src="https://img.icons8.com/color/30/000000/adobe-photoshop.png"/>
@@ -48,7 +50,7 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 <img alt="Office 365"  src="https://img.icons8.com/color/30/4a90e2/office-365.png"/>
 
 
-**Games i grew up playing:**
+**My personalities:**
 </br>
 <img alt="World of Warcraft"  src="https://img.icons8.com/color/30/4a90e2/world-of-warcraft.png"/>
 <img alt="Dota 2" src="https://img.icons8.com/color/30/4a90e2/dota.png"/>
