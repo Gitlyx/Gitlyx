@@ -3,8 +3,8 @@
  
 My name is Charlie and I have a burning passion for learning the latest and greatest technologies whether thats the fontend or backend. I enjoy creating beautiful and meaningful applications while also adhering to the principles of Universal Design. 
 
-- 🌱 I'm so close to my goal in becoming a Full Stack Developer.
-- 💼 Currently working as a Developer for Dignio. 
+- 🌱 I'm so close to my goal in becoming Software Engineer.
+- 💼 I'm part time Developer at Dignio AS. 
 - 👯‍♂️ I love working in teams where I can learn and share knowledge.
 - 🧑‍🎨 Fun fact: I love to draw and illustrate in Procreate! I also have a degree in Mechanical Engineering 😎
 
