@@ -15,7 +15,7 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> What am I doing?
 
-**My focus**
+**What I'm working on**
 </br>
 <img alt="python" src="https://img.icons8.com/dusk/30/000000/python.png"/>
 <img alt="google" src="https://img.icons8.com/office/30/000000/google-logo.png"/>
@@ -23,7 +23,7 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 <img alt="Linux" src="https://img.icons8.com/color/30/000000/linux--v2.png"/>
 
  
-**My motivation:**
+**What I've worked with:**
 </br>
 <img alt="cSharp" src="https://img.icons8.com/color/30/000000/c-sharp-logo-2.png"/>
 <img alt="Typescript" src="https://img.icons8.com/material-sharp/30/4a90e2/typescript.png"/>
@@ -38,14 +38,9 @@ My name is Charlie and I have a burning passion for learning the latest and grea
 <img alt="SASS" src="https://img.icons8.com/color/30/000000/sass.png"/>
 <img alt="MySQL" src="https://img.icons8.com/color/30/000000/mysql.png"/>
 <img alt="Rest API" src="https://img.icons8.com/color/30/000000/rest-api.png" />
-
-**My creativity:**
-</br>
 <img alt="Git" src="https://img.icons8.com/color/30/000000/git.png" />
 <img alt="Photoshop" src="https://img.icons8.com/color/30/000000/adobe-photoshop.png"/>
-<img alt="Xd" src="https://img.icons8.com/color/30/000000/adobe-xd.png"/>
 <img alt="Illustrator" src="https://img.icons8.com/color/30/000000/adobe-illustrator.png"/>
-<img alt="IntelliJ"  src="https://img.icons8.com/color/30/000000/intellij-idea.png" />
 <img alt="Office 365"  src="https://img.icons8.com/color/30/4a90e2/office-365.png"/>
 
 
